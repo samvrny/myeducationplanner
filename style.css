@@ -1,0 +1,69 @@
+/* global styles */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: 100vh;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+/* header style */
+
+header {
+    border: 2px solid green;
+    height: 55px;
+}
+
+header h1 {
+    margin-left: 40px;
+}
+
+/* main content style */
+
+.main-content {
+    border: 2px solid green
+}
+
+/* archive style */
+
+.archive {
+    border: 2px solid green
+}
+
+/* social media style */
+
+.social-media {
+    border: 2px solid green
+}
+
+/* footer style */
+
+footer {
+    border: 2px solid green;
+    margin-top: auto;
+}
