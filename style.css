@@ -56,15 +56,12 @@ header h1 {
 }
 
 .path-box {
-    border: 2px solid green;
     border-radius: 5px;
     margin: 28px 150px
 }
 
-.about, .this-week, .ztm {
-    border: 2px solid green;
+.about, .this-week, .ztm, .trailhead {
     padding: 25px 30px;
-    /* box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.5); */
 }
 
 .about {
@@ -79,12 +76,17 @@ header h1 {
     box-shadow: 0 0px 10px 0 rgba(241, 113, 5, 0.7);
 }
 
-.about h2, .this-week h2{
+/* TODO: temporary box shadow here so I can toggle the ugleness off */
+.trailhead, .other-courses, .notes {
+    box-shadow: 0 0px 10px 0 rgba(26, 143, 227, 0.7);
+}
+
+.about h2, .this-week h2 {
     margin-bottom: 20px;
     font-size: 30px;
 }
 
-.ztm h2  {
+.ztm h2, .trailhead h2 {
     margin-bottom: 25px;
     font-size: 40px;
 }
@@ -98,7 +100,7 @@ header h1 {
     margin: 10px 0px;
 }
 
-.ztm p {
+.ztm p, .trailhead p {
     margin: 15px 0px;
     font-size: 23px;
     font-weight: 600;
