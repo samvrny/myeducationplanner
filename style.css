@@ -34,7 +34,6 @@ html, body {
 /* header style */
 
 header {
-    /* border: 2px solid green; */
     height: 90px;
     box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.5);
     margin-bottom: 20px;
@@ -60,7 +59,7 @@ header h1 {
     margin: 28px 150px
 }
 
-.about, .this-week, .ztm, .trailhead {
+.about, .this-week, .ztm, .trailhead, .archive, .notes, .other-courses {
     padding: 25px 30px;
 }
 
@@ -77,11 +76,11 @@ header h1 {
 }
 
 /* TODO: temporary box shadow here so I can toggle the ugleness off */
-.trailhead, .other-courses, .notes {
+.trailhead, .other-courses, .notes, .archive {
     box-shadow: 0 0px 10px 0 rgba(26, 143, 227, 0.7);
 }
 
-.about h2, .this-week h2 {
+.about h2, .this-week h2, .notes h2, .archive h2, .other-courses h2 {
     margin-bottom: 20px;
     font-size: 30px;
 }
@@ -123,7 +122,6 @@ header h1 {
 /* archive style */
 
 .archive {
-    border: 2px solid green;
     margin: 30px;
     padding: 30px;
 }
