@@ -35,13 +35,15 @@ html, body {
 
 header {
     /* border: 2px solid green; */
-    height: 75px;
+    height: 90px;
     box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.5);
     margin-bottom: 20px;
 }
 
 header h1 {
     margin-left: 60px;
+    font-size: 35px;
+    font-weight: 700;
 }
 
 /* main content style */
@@ -55,10 +57,11 @@ header h1 {
 
 .path-box {
     border: 2px solid green;
+    border-radius: 5px;
     margin: 28px 150px
 }
 
-.about, .this-week {
+.about, .this-week, .ztm {
     border: 2px solid green;
     padding: 25px 30px;
     /* box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.5); */
@@ -72,9 +75,18 @@ header h1 {
     box-shadow: 0 0px 10px 0 rgba(102, 16, 242, 0.7);
 }
 
-.about h2, .this-week h2 {
+.ztm {
+    box-shadow: 0 0px 10px 0 rgba(241, 113, 5, 0.7);
+}
+
+.about h2, .this-week h2{
     margin-bottom: 20px;
     font-size: 30px;
+}
+
+.ztm h2  {
+    margin-bottom: 25px;
+    font-size: 40px;
 }
 
 .about p, .this-week p {
@@ -86,12 +98,22 @@ header h1 {
     margin: 10px 0px;
 }
 
+.ztm p {
+    margin: 15px 0px;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.ztm-link {
+    margin: 35px 0px 20px 0px;
+} 
+
 .bold {
     font-size: 25px;
     font-weight: 700;
 }
 
-.gc-font {
+.link-font {
     font-size: 30px;
     font-weight: 700;
 }
