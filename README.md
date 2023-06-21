@@ -1,14 +1,29 @@
-# Education Planner
+# edu
 
-## Description
+This template should help get you started developing with Vue 3 in Vite.
 
-This website is my way of keeping myself motivated to continue web development and salesforce education by logging my plans and actions. The website will be built as a static site with no database to start and has a simple design, although features will be added as I continue my educational journey, and have time to add more features. The simple design to start was chosen to keep me focused and achieving goals without getting bogged down in too many features without enough time or experience to complete them. This application is developed specifically for myself as an educational tool, and it's deployment to and on Github is only to demonstrate to future employers and other developers that I am an active member of the web development community. 
+## Recommended IDE Setup
 
-## Built With
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-* HTML
-* CSS
+## Customize configuration
 
-## Contributions 
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-Made by me, Samuel Varney! 
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
