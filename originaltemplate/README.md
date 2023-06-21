@@ -8,6 +8,9 @@ This website is my way of keeping myself motivated to continue web development a
 
 * HTML
 * CSS
+* Vue
+* Vite
+* Javascript
 
 ## Contributions 
 
