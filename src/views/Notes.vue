@@ -23,6 +23,15 @@
             locally. A weekly/bi-weekly backup may be warranted.❌</p>
         <p>📌Add a reading list to the education application ❌</p>
         <p>📌Add somt switching ability to the Home page of the education planner. Allow myself to be able to toggle between the different education paths, or see them all at once. ❌</p>
+        <p>📌Add Tailwind to this project to get some better looking CSS going ❌</p>
+        <p>📌Add Firebase to the project to save archived notes and schedules. ❌</p>
+        <!-- <p>📌❌</p> -->
+        <!-- <p>📌❌</p> -->
+        <!-- <p>📌❌</p> -->
+        <!-- <p>📌❌</p> -->
+        <!-- <p>📌❌</p> -->
+        <!-- <p>📌❌</p> -->
+        <!-- <p>📌❌</p> -->
         <!-- <p>📌❌</p> -->
 
     </section>

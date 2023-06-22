@@ -16,17 +16,14 @@
         ZTM for 3 hours ✔️</p>
       <p><span class="bold">Monday 6/19: </span>Phone call at 10:30 about service desk engineering job. ✔️ Work on ZTM for
         4 hours. ✔️ Work on Trailhead for 1.5 hours. ✔️</p>
-      <p><span class="bold">Tuesday 6/20: </span>Restructure this website to use Vue or React. ❌ Create a tutorial on
+      <p><span class="bold">Tuesday 6/20: </span>Restructure this website to use Vue or React. ✔️ Create a tutorial on
         Github about how to initially create React and Vue apps for myself. ✔️ Work on ZTM for 3 hours. ✔️ Look into/sign
-        back up for Chart Champions program/Trading View ✔️ Work on Chart Champions for 1 hour ❌ Look at Ryan Evans email
+        back up for Chart Champions program/Trading View ✔️ Work on Chart Champions for 1 hour ✔️ Look at Ryan Evans email
         and website. ✔️</p>
-      <p><span class="bold">Wednesday 6/21: </span>Work at the Tavern at 4:30 ❌ Work on Chart Champions for 1 hour. ❌ Work
-        on Trailhead for 1 hour. ❌</p>
-      <p><span class="bold">Thursday 6/22: </span>Work on ZTM for 3 hours. ❌ Work on Chart Champions for 1 hour. ❌ Work on
-        Trailhead for 1 hour at the end of the night. ❌ Get my Google Docs arranged in my educational planner app. ❌
-        Attend discussion with Justin ❌</p>
-      <p><span class="bold">Friday 6/23: </span>Work at the Tavern at 10:45. ❌ Work on Chart Champions for 2 hours. ❌ Play
-        around with some of the Unity3d ZTM coursework ❌ Make next weeks schedule. Include plans for reading and rules
+      <p><span class="bold">Wednesday 6/21: </span>Work at the Tavern at 4:30 ✔️ Work on Chart Champions for 1 hour. ✔️ </p>
+      <p><span class="bold">Thursday 6/22: </span>Work on ZTM for 3 hours. ✔️ Work on Chart Champions for 1 hour OR look into trading classes and books in general. Spend the hour seeing what the options are and making some picks. ❌ Work on
+        Trailhead for 2 hour at the end of the night. ❌ Get my Google Docs arranged in my educational planner app. ❌ Attend discussion with Justin ❌</p>
+      <p><span class="bold">Friday 6/23: </span>Work at the Tavern at 10:45. ❌ Work on trading classes for 1 hour. ❌ Work on ZTM for 3 hours. ❌ Make next weeks schedule. Include plans for reading and rules
         about not having phone right when I wake up. ❌</p>
       <p><span class="link-font">Check My Google Calendar Here:
           <a class="link" href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">Google Calendar</a>
