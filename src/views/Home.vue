@@ -4,8 +4,8 @@
       <h2>About</h2>
       <p>This is my 2023 weekly planner. The courses I am going to take are outlined below, in order. A
         combination of ZTM and and Trailhead courses are listed along with other goals and educational
-        opportunities. The weekly schedule below will be updated every Friday to reflect the schedule for the
-        next week, starting on Saturday and ending on Friday. Unompleted goals for each educational path below
+        opportunities, to be updated soon with more content, and with a better UI. The weekly schedule below will be updated every Friday to reflect the schedule for the
+        next week, starting on Saturday and ending on Friday. Uncompleted goals for each educational path below
         will have a ❌ emoji, and finished paths will have a ✔️ emoji. Let's get this bread! 🍞</p>
     </section>
 

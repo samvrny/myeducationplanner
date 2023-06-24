@@ -12,9 +12,6 @@ const router = createRouter({
     {
       path: '/notes',
       name: 'notes',
-      // route level code-splitting
-      // this generates a separate chunk (About.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
       component: () => import('../views/Notes.vue')
     },
     {
@@ -27,7 +24,8 @@ const router = createRouter({
       name: 'resources',
       component: () => import('../views/Resources.vue')
     }
-  ]
+  ],
+  linkExactActiveClass: 'active-color'
 })
 
 export default router

@@ -35,16 +35,38 @@ html, body {
 /* header style */
 
 header {
-  height: 90px;
   box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.5);
   margin-bottom: 20px;
+  padding: 20px 0px;
   background-color: white;
+  justify-content: space-between;
 }
 
 header h1 {
   margin-left: 60px;
-  font-size: 35px;
+  font-size: 45px;
   font-weight: 700;
+  cursor: default;
+}
+
+nav {
+  align-items: center;
+  margin-right: 60px;
+}
+
+nav a {
+  padding: 0px 20px;
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+}
+
+nav a:hover {
+  color: #708090;
+}
+
+.active-color {
+  color: rgba(241, 113, 5, 1);
 }
 
 /* main content style */
