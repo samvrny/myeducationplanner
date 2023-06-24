@@ -10,21 +10,14 @@
     </section>
 
     <section class="this-week path-box text-center">
-      <h2>This Weeks Schedule 6/17-6/23</h2>
-      <p><span class="bold">Saturday 6/17:</span> Work at the Tavern at 4:30 ✔️ Work on ZTM for 1 hour ✔️</p>
-      <p><span class="bold">Sunday 6/18: </span>Family dinner at 5 ✔️ Hangout with Avery, Reese, and company ✔️ work on
-        ZTM for 3 hours ✔️</p>
-      <p><span class="bold">Monday 6/19: </span>Phone call at 10:30 about service desk engineering job. ✔️ Work on ZTM for
-        4 hours. ✔️ Work on Trailhead for 1.5 hours. ✔️</p>
-      <p><span class="bold">Tuesday 6/20: </span>Restructure this website to use Vue or React. ✔️ Create a tutorial on
-        Github about how to initially create React and Vue apps for myself. ✔️ Work on ZTM for 3 hours. ✔️ Look into/sign
-        back up for Chart Champions program/Trading View ✔️ Work on Chart Champions for 1 hour ✔️ Look at Ryan Evans email
-        and website. ✔️</p>
-      <p><span class="bold">Wednesday 6/21: </span>Work at the Tavern at 4:30 ✔️ Work on Chart Champions for 1 hour. ✔️ </p>
-      <p><span class="bold">Thursday 6/22: </span>Work on ZTM for 3 hours. ✔️ Work on Chart Champions for 1 hour OR look into trading classes and books in general. Spend the hour seeing what the options are and making some picks. ✔️ Work on
-        Trailhead for 2 hour at the end of the night. (Ran out of time in the day) ❌ Get my Google Docs arranged in my educational planner app. (Ran out of time in the day.) ❌ Attend discussion with Justin ✔️</p>
-      <p><span class="bold">Friday 6/23: </span>Work at the Tavern at 10:45. ❌ Work on trading classes for 1 hour. ❌ Work on ZTM for 3 hours. ❌ Make next weeks schedule. Include plans for reading and rules
-        about not having phone right when I wake up. Add plans for incompleted work on Thursday. ❌ Finish this website late. ❌</p>
+      <h2>This Weeks Schedule 6/24-6/25</h2>
+      <p><span class="bold">Saturday 6/24:</span>Wake up at 9:30. ✔️ No phone for 30 minutes. Reading instead until 10:15 ✔️ Deploy a working version of this website ❌ Work at the Tavern at 4 ❌</p>
+      <p><span class="bold">Sunday 6/25: </span>Hang around in the morning, take the morning off and just relax ❌ Work at the Tavern at 4 ❌</p>
+      <p><span class="bold">Monday 6/26: </span>Wake up at 9. No phone for 30 minutes ❌ Work on ZTM for 5 hours ❌ Work on Trailhead for 1 hour ❌ Work on trading strategy for 1 hour ❌</p>
+      <p><span class="bold">Tuesday 6/27: </span>Wake up at 9 No phone for 30 minutes ❌ Work on ZTM for 3 hours ❌ Work at the Tavern at 5 ❌</p>
+      <p><span class="bold">Wednesday 6/28: </span>Wake up at 8:30 No phone for 30 minutes ❌ Work on ZTM for 5 hours ❌ Work on trading strategy for 1 hour ❌ Add Google Documents page to this website ❌</p>
+      <p><span class="bold">Thursday 6/29: </span>Wake up at 8:30 No phone for 30 minutes ❌ Work on ZTM for 6 hours ❌ Work on Trailhead for 1 hour ❌ Work on trading strategy for 30 minutes ❌</p>
+      <p><span class="bold">Friday 6/30: </span>Wake up at 8 No phone for 30 minutes ❌ Make schedule for the coming week ❌ Work on ZTM for as much time as possible (Hopefully 2-3 hours) ❌ Pack for North Dakota ❌ Drive to North Dakota ❌</p>
       <p><span class="link-font">Check My Google Calendar Here:
           <a class="link" href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">Google Calendar</a>
         </span></p>
@@ -33,16 +26,16 @@
     <section class="ztm path-box text-center">
       <h2>ZTM Course Path</h2>
       <p>📌 Complete Vue Developer 2023 ❌</p>
-      <p>📌 Motion Design With Figma ❌</p>
       <p>📌 Javascript Web Projects ❌</p>
+      <p>📌 Master the Coding Interview: Data Structures and Algorithms ❌</p>
+      <p>📌 Motion Design With Figma ❌</p>
       <p>📌 Javascript: The Advanced Concepts ❌</p>
+      <p>📌 Complete SQL + Databases Bootcamp ❌</p>
+      <p>📌 Complete Career Toolkit ❌</p>
       <p>📌 Complete Web Developer in 2023 ❌</p>
       <p>📌 Complete Node.JS Developer in 2023 ❌</p>
       <p>📌 C#/.NET Bootcamp ❌</p>
-      <p>📌 Complete SQL + Databases Bootcamp ❌</p>
       <p>📌 Complete React Developer in 2023 With Redux ❌</p>
-      <p>📌 Master the Coding Interview: Data Structures and Algorithms ❌</p>
-      <p>📌 Complete Career Toolkit ❌</p>
       <p>📌 Unity Bootcamp: 3D Game Development ❌</p>
 
       <div class="ztm-link"><span class="link-font">Here is a link to the ZTM academy: <a class="link"
