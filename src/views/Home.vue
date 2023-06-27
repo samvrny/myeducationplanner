@@ -13,7 +13,7 @@
       <h2>This Weeks Schedule 6/24-6/25</h2>
       <p><span class="bold">Saturday 6/24:</span>Wake up at 9:30. ✔️ No phone for 30 minutes. Reading instead until 10:15 ✔️ Deploy a working version of this website ✔️ Work at the Tavern at 4 ✔️</p>
       <p><span class="bold">Sunday 6/25: </span>Hang around in the morning, take the morning off and just relax ✔️ Work at the Tavern at 4 ✔️</p>
-      <p><span class="bold">Monday 6/26: </span>Wake up at 9. No phone for 30 minutes (Missed alarm, got up closer to 9:40) ❌ Work on ZTM for 5 hours ❌ Work on trading strategy for 1 hour ❌</p>
+      <p><span class="bold">Monday 6/26: </span>Wake up at 9. No phone for 30 minutes (Missed alarm, got up closer to 9:40) ❌ Work on ZTM for 5 hours ✔️ Work on trading strategy for 1 hour ✔️</p>
       <p><span class="bold">Tuesday 6/27: </span>Wake up at 9 No phone for 30 minutes ❌ Work on ZTM for 3 hours ❌ Work at the Tavern at 5 ❌</p>
       <p><span class="bold">Wednesday 6/28: </span>Wake up at 8:30 No phone for 30 minutes ❌ Work on ZTM for 6 hours ❌ Work on trading strategy for 1 hour ❌ Add Google Documents page to this website ❌</p>
       <p><span class="bold">Thursday 6/29: </span>Wake up at 8:30 No phone for 30 minutes ❌ Work on ZTM for 7 hours ❌ Work on trading strategy for 30 minutes ❌</p>
