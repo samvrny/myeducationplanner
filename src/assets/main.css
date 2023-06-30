@@ -11,6 +11,16 @@ html, body {
   min-height: 100vh;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+#app {
+  margin: 0;
+  flex: 1;
+}
+
 .flex {
   display: flex;
 }
@@ -23,9 +33,9 @@ html, body {
   align-items: center;
 }
 
-.text-center {
+/* .text-center {
   text-align: center;
-}
+} */
 
 .justify-center {
   justify-content: center;
@@ -184,5 +194,7 @@ footer {
   margin-top: auto;
   font-weight: 600;
   font-size: 22px;
+  bottom: 0;
+  margin-top: 460px;
 }
 
