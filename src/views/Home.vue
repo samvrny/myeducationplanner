@@ -10,14 +10,14 @@
     </section>
 
     <section class="this-week path-box text-center">
-      <h2>This Weeks Schedule 6/24-6/25</h2>
-      <p><span class="bold">Saturday 6/24:</span>Wake up at 9:30. ✔️ No phone for 30 minutes. Reading instead until 10:15 ✔️ Deploy a working version of this website ✔️ Work at the Tavern at 4 ✔️</p>
-      <p><span class="bold">Sunday 6/25: </span>Hang around in the morning, take the morning off and just relax ✔️ Work at the Tavern at 4 ✔️</p>
-      <p><span class="bold">Monday 6/26: </span>Wake up at 9. No phone for 30 minutes (Missed alarm, got up closer to 9:40) ❌ Work on ZTM for 5 hours ✔️ Work on trading strategy for 1 hour ✔️</p>
-      <p><span class="bold">Tuesday 6/27: </span>Wake up at 9 No phone for 30 minutes (Up too late night before. Slept till 10)❌ Work on ZTM for 3 hours ✔️ Work at the Tavern at 5 ✔️</p>
-      <p><span class="bold">Wednesday 6/28: </span>Wake up at 9 No phone for 30 minutes (Once again slept through the alarm)❌ Work on ZTM for 6 hours ✔️ Work on trading strategy for 1 hour ✔️ </p>
-      <p><span class="bold">Thursday 6/29: </span>Wake up at 9 No phone for 30 minutes (Woke up at 9:30)❌ Work on ZTM for 7 hours ✔️ Work on trading strategy for 30 minutes ✔️ Add Google Documents page to this website ❌</p>
-      <p><span class="bold">Friday 6/30: </span>Wake up at 9:30 No phone for 30 minutes ❌ Make schedule for the coming week ❌ Check Ryans website and email him back ✔️ Work on ZTM for as much time as possible (Hopefully 2-3 hours) ❌ Pack for North Dakota ❌ Drive to North Dakota ❌</p>
+      <h2>This Weeks Schedule 7/1-7/7</h2>
+      <p><span class="bold">Saturday 7/1:</span>Have fun in North Dakota ❌</p>
+      <p><span class="bold">Sunday 7/1: </span>Have fun in North Dakota ❌</p>
+      <p><span class="bold">Monday 7/3: </span>Have fun in North Dakota ❌</p>
+      <p><span class="bold">Tuesday 7/4: </span>Drive back from North Dakota ❌ Work at the Tavern at 4:30 ❌</p>
+      <p><span class="bold">Wednesday 7/5: </span>Wake up at 8:20 to check trades. No phone for 30 minutes. ❌ Work on ZTM for 3 hours ❌ Work on ad to put out in Hastings about doing side work ❌ Work at the Tavern at 4:30 ❌</p>
+      <p><span class="bold">Thursday 7/6: </span>Wake up at 8:20 to check trades. No phone for 30 minutes. ❌ Work on ZTM for 4 hours. ❌ Research Wordpress for 2 hours ❌ Work on trading theory for 1 1/2 hours ❌</p>
+      <p><span class="bold">Friday 7/7: </span>Wake up at 8:20 to check trades. No phone for 30 minutes ❌ Work on ZTM for 4 hours or until project is complete. ❌ Work on Wordpress for 2 hours ❌ Finish adding content to this website. ❌ Make schedule for the next week ❌</p>
       <p><span class="link-font">Check My Google Calendar Here:
           <a class="link" href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">Google Calendar</a>
         </span></p>
@@ -59,9 +59,9 @@
       </div>
     </section>
 
-    <section class="other-courses path-box text-center">
+    <!-- <section class="other-courses path-box text-center">
       <h2>Other Courses and Education</h2>
       <p>Nothing to see here just yet. More to be added soon!</p>
-    </section>
+    </section> -->
   </main>
 </template>

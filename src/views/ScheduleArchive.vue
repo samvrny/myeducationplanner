@@ -3,10 +3,20 @@
         <section class="archive path-box text-center archive-box">
             <h2>Archive of Weekly Schedule</h2>
 
+            <h3>Schedule for week 6/24-6/25</h3>
+            <p><span class="bold">Saturday 6/24:</span>Wake up at 9:30. ✔️ No phone for 30 minutes. Reading instead until 10:15 ✔️ Deploy a working version of this website ✔️ Work at the Tavern at 4 ✔️</p>
+            <p><span class="bold">Sunday 6/25: </span>Hang around in the morning, take the morning off and just relax ✔️ Work at the Tavern at 4 ✔️</p>
+            <p><span class="bold">Monday 6/26: </span>Wake up at 9. No phone for 30 minutes (Missed alarm, got up closer to 9:40) ❌ Work on ZTM for 5 hours ✔️ Work on trading strategy for 1 hour ✔️</p>
+            <p><span class="bold">Tuesday 6/27: </span>Wake up at 9 No phone for 30 minutes (Up too late night before. Slept till 10)❌ Work on ZTM for 3 hours ✔️ Work at the Tavern at 5 ✔️</p>
+            <p><span class="bold">Wednesday 6/28: </span>Wake up at 9 No phone for 30 minutes (Once again slept through the alarm)❌ Work on ZTM for 6 hours ✔️ Work on trading strategy for 1 hour ✔️ </p>
+            <p><span class="bold">Thursday 6/29: </span>Wake up at 9 No phone for 30 minutes (Woke up at 9:30)❌ Work on ZTM for 7 hours ✔️ Work on trading strategy for 30 minutes ✔️ Add Google Documents page to this website (more to do but added the page) ✔️</p>
+            <p><span class="bold">Friday 6/30: </span>Wake up at 9:30 No phone for 30 minutes (Used phone when I woke up) ❌ Make schedule for the coming week ✔️ Check Ryans website and email him back ✔️ Work on ZTM for as much time as possible (worked on trading instead) ❌ Pack for North Dakota ✔️ Drive to North Dakota ✔️</p>
+
+            <br>
             <hr>
             <br>
 
-            <h3>Schedule For Week 6/17-6/23</h3>
+            <h3>Schedule For week 6/17-6/23</h3>
             <p><span class="bold">Saturday 6/17:</span> Work at the Tavern at 4:30 ✔️ Work on ZTM for 1 hour ✔️</p>
             <p><span class="bold">Sunday 6/18: </span>Family dinner at 5 ✔️ Hangout with Avery, Reese, and company ✔️ work on ZTM for 3 hours ✔️</p>
             <p><span class="bold">Monday 6/19: </span>Phone call at 10:30 about service desk engineering job. ✔️ Work on ZTM for 4 hours. ✔️ Work on Trailhead for 1.5 hours. ✔️</p>
