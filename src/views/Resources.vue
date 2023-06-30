@@ -1,30 +1,54 @@
 <template>
     <section class="main-content flex flex-column align-center resources">
         <div>
-            <button class="mx-6 text-xl bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Accounts</button>
-            <button class="mx-6 text-xl bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Google Documents</button>
-            <button class="mx-6 text-xl bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Trading</button>
+            <button 
+                class="mx-6 text-xl bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
+                @click.prevent="activeName = 'Accounts'">
+                Accounts
+            </button>
+            <button 
+                class="mx-6 text-xl bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
+                @click.prevent="activeName = 'Documents'">
+                Google Documents
+            </button>
+            <button 
+                class="mx-6 text-xl bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
+                @click.prevent="activeName = 'Trading'">
+                Trading
+            </button>
         </div>
 
         <section class="path-box border-solid">
             <h1>{{ activeName }}</h1>
-            <documents></documents>
+            <documents v-if="this.activeName === 'Documents'"></documents>
+            <accounts v-else-if="this.activeName === 'Accounts'"></accounts>
+            <trading v-else-if="this.activeName === 'Trading'"></trading>
         </section>
     </section>
 </template>
 
 <script>
 import Documents from '../components/Documents.vue'
+import Accounts from '../components/Accounts.vue'
+import Trading from '../components/Trading.vue'
 
 export default {
     name: 'Resources',
     data() {
         return {
-            activeName: ''
+            activeName: '',
+            docs: false,
+            trd: false,
+            accts: false
         }
     },
     components: {
-        Documents
+        Documents,
+        Accounts,
+        Trading
+    },
+    methods: {
+
     }
 
 }

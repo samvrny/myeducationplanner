@@ -1,3 +1,3 @@
 <template>
-    Hello Worlds
+    Hello Documents
 </template>
