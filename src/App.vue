@@ -10,10 +10,13 @@
   </header>
 
   <RouterView />
+  <footer class="flex align-center justify-center">Keep Up The Good Work!! Chicken Tenders Are Forever.</footer>
 </template>
 
-<script setup>
-import { RouterLink, RouterView } from 'vue-router'
-</script>
+<script>
+import { RouterLink, RouterView } from 'vue-router';
 
-<style scoped></style>
+export default {
+  name: 'App',
+}
+</script>

@@ -23,9 +23,9 @@ html, body {
   align-items: center;
 }
 
-.text-center {
+/* .text-center {
   text-align: center;
-}
+} */
 
 .justify-center {
   justify-content: center;
