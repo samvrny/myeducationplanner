@@ -10,7 +10,8 @@
   </header>
 
   <RouterView />
-  <footer class="flex align-center justify-center">Keep Up The Good Work!! Chicken Tenders Are Forever.</footer>
+
+  <!-- <footer class="flex align-center justify-center">Keep Up The Good Work!! Chicken Tenders Are Forever.</footer> -->
 </template>
 
 <script>
