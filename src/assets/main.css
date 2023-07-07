@@ -182,6 +182,15 @@ nav a:hover {
   padding: 100px;
 }
 
+/* resources main styles */
+
+.resource-header {
+  margin: 25px;
+  font-size: 40px;
+  font-weight: 700;
+  /* position: fixed; */
+}
+
 /* documents section style */
 
 .docs-menu {
@@ -196,7 +205,11 @@ nav a:hover {
 }
 
 .docs-box {
-  justify-content: space-evenly;
+  margin-top: 30px;
+}
+
+.docs-box h2 {
+  font-size: 28px;
 }
 
 /* footer style */
