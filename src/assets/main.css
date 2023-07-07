@@ -33,10 +33,6 @@ body {
   align-items: center;
 }
 
-/* .text-center {
-  text-align: center;
-} */
-
 .justify-center {
   justify-content: center;
 }
@@ -184,6 +180,23 @@ nav a:hover {
 .archive {
   margin: 30px;
   padding: 100px;
+}
+
+/* documents section style */
+
+.docs-menu {
+  margin-right: 25px;
+  width: 200px;
+  left: 0;
+  position: absolute;
+}
+
+.docs-menu button {
+  margin: 10px 10px 5px 20px;
+}
+
+.docs-box {
+  justify-content: space-evenly;
 }
 
 /* footer style */

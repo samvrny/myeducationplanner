@@ -18,8 +18,7 @@
             </button>
         </div>
 
-        <section class="path-box border-solid">
-            <h1>{{ activeName }}</h1>
+        <section class="border-solid">
             <documents v-if="this.activeName === 'Documents'"></documents>
             <accounts v-else-if="this.activeName === 'Accounts'"></accounts>
             <trading v-else-if="this.activeName === 'Trading'"></trading>
