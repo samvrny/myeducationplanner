@@ -45,6 +45,14 @@ li {
   margin-left: 30px
 }
 
+.link {
+  color: blue;
+}
+
+.link:hover {
+  color: #f17105;
+}
+
 /* header style */
 
 header {

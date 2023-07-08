@@ -3,6 +3,19 @@
         <section class="archive path-box text-center archive-box">
             <h2>Archive of Weekly Schedule</h2>
 
+            <h3>Schedule for week 7/1-7/7</h3>
+            <p><span class="bold">Saturday 7/1:</span>Have fun in North Dakota ✔️</p>
+            <p><span class="bold">Sunday 7/1: </span>Have fun in North Dakota ✔️</p>
+            <p><span class="bold">Monday 7/3: </span>Have fun in North Dakota ✔️</p>
+            <p><span class="bold">Tuesday 7/4: </span>Drive back from North Dakota ✔️ Work at the Tavern at 4:30 ✔️</p>
+            <p><span class="bold">Wednesday 7/5: </span>Update resume and get ready to apply for WEDC position ✔️ Work at the Tavern at 4:30 ✔️</p>
+            <p><span class="bold">Thursday 7/6: </span>Wake up at 8:20 to check trades. No phone for 30 minutes. (Missed alarm again!) ❌ Work on ZTM for 4 hours. (2 hours Vue, 2 hours Microsoft Excel) ✔️ Research Microsoft Office for 1 hours ✔️ Work on trading theory for 1 1/2 hours ✔️ Use extra time to work on learning Microsoft Office ✔️</p>
+            <p><span class="bold">Friday 7/7: </span>Wake up at 8:20 to check trades. No phone for 30 minutes (Woke up at 8:40. Used phone.) ❌ Work on ZTM for 4 hours or until Vue project is complete. Work on Excel program for remainder of time. ✔️ Work on Microsoft Office for 2 hours (Ran out of time working on other things) ❌ Finish adding content to this website. ✔️ Make schedule for the next week ✔️</p>
+
+            <br>
+            <hr>
+            <br>
+
             <h3>Schedule for week 6/24-6/25</h3>
             <p><span class="bold">Saturday 6/24:</span>Wake up at 9:30. ✔️ No phone for 30 minutes. Reading instead until 10:15 ✔️ Deploy a working version of this website ✔️ Work at the Tavern at 4 ✔️</p>
             <p><span class="bold">Sunday 6/25: </span>Hang around in the morning, take the morning off and just relax ✔️ Work at the Tavern at 4 ✔️</p>
