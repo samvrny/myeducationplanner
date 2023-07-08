@@ -11,11 +11,11 @@
             <button class="mx-6 text-xl bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
                 @click.prevent="activeDocument = 'Personal Calls'">Personal Calls</button>
             <button class="mx-6 text-xl bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
-                @click.prevent="activeDocument = 'Career Lists'">Career Lists</button>
+                @click.prevent="activeDocument = 'Career Materials'">Career Materials</button>
             <button class="mx-6 text-xl bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
                 @click.prevent="activeDocument = 'Job Fairs and Calls'">Job Fairs/Calls</button>
             <button class="mx-6 text-xl bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
-                @click.prevent="activeDocument = 'Family Cards'">Family Cards</button>
+                @click.prevent="activeDocument = 'Family/Personal'">Family and Personal</button>
             <button class="mx-6 text-xl bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
                 @click.prevent="activeDocument = 'Random Study Notes'">Random Study Notes</button>
             <!-- <button class="mx-6 text-xl bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 rounded">R</button> -->
@@ -43,29 +43,34 @@
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1Cd1o7QV9PPy9SwVcwpCzqXAeQeHqgyJF8w7ITub0hR8/edit?usp=sharing" target="_blank">MISC Bland Resume Template</a>
                     <!-- <a class="mt-4 block" href="" target="_blank"></a> -->
                 </div>
-                <div v-else-if="activeDocument === 'Job Fairs and Calls'">
+                <!-- <div v-else-if="activeDocument === 'Job Fairs and Calls'">
                     Mark
-                </div>
+                </div> -->
                 <div v-else-if="activeDocument === 'Cover Letters'">
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1QPBLSZ4pKRacGO8SZxPnkBBIbPmy-7vj05lmyD_DqNc/edit?usp=sharing" target="_blank">WEDC Cover Letter</a>
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1seLUGNK8upUtgxGim3PcknmXrGRk182Jug1YHWQXzmY/edit?usp=sharing" target="_blank">RFS Cover Letter</a>
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1CueCoq3qL2tONm4P6PHfpMK_OsP9AZVuwMm0_AwmCyM/edit?usp=sharing" target="_blank">Basic Cover Letter Template</a>
-                    <a class="mt-4 block" href="" target="_blank"></a>
-                    <a class="mt-4 block" href="" target="_blank"></a>
-                    <a class="mt-4 block" href="" target="_blank"></a>
-
+                    <a class="mt-4 block" href="https://docs.google.com/document/d/1MtmISHbAX7_Wo_ifNpmAcqlsBvHzYOvO3M6AH-pM9jw/edit?usp=sharing" target="_blank">Spectrio Cover Letter</a>
+                    <!-- <a class="mt-4 block" href="" target="_blank"></a> -->
                 </div>
                 <div v-else-if="activeDocument === 'Personal Calls'">
-                    Descrip
+                    <a class="mt-4 block" href="https://docs.google.com/document/d/1KSmlQiURMzipLtVvpUwUJ4mW3OgQGrC6yrpnmLmCtN8/edit?usp=sharing" target="_blank">Javascript MN Meeting</a>
+                    <a class="mt-4 block" href="https://docs.google.com/document/d/1FZmRBOCQvLPQmWDPEs17nFIgiYujfYv1Fkd84IEwcN8/edit?usp=sharing" target="_blank">Group Work Discussions</a>
+                    <!-- <a class="mt-4 block" href="" target="_blank"></a> -->
                 </div>  
-                <div v-else-if="activeDocument === 'Career Lists'">
-                    Plat
+                <div v-else-if="activeDocument === 'Career Materials'">
+                    <a class="mt-4 block" href="https://docs.google.com/document/d/1Zc9bfmA1k060oJUbqAhwUOF4SIsfsGuvWzWXl-NIsvg/edit?usp=sharing" target="_blank">All Units - Mockups</a>
+                    <a class="mt-4 block" href="https://docs.google.com/document/d/1XK8335YxWgIe6iaIZ5y39CV4uVoXNYnp5F5QByR1pIA/edit?usp=sharing" target="_blank">Behavioral Questions</a>
+                    <!-- <a class="mt-4 block" href="" target="_blank"></a>  -->
                 </div>
-                <div v-else-if="activeDocument === 'Family Cards'">
-                    Meow
+                <div v-else-if="activeDocument === 'Family/Personal'">
+                    <a class="mt-4 block" href="https://docs.google.com/document/d/1BCR7Cuk1Z3tiwx4Am2jruNTPVCsB3c59Ezlu1bQ-6pg/edit?usp=sharing" target="_blank">Our Super Official Packing List</a>
+                    <!-- <a class="mt-4 block" href="" target="_blank"></a> -->
                 </div>
                 <div v-else-if="activeDocument === 'Random Study Notes'">
-                    URL
+                    <a class="mt-4 block" href="https://docs.google.com/document/d/1NROz7D04BlAq-DDOR4CphdiSy4_eUhRuu2ZUFDH9k-Q/edit?usp=sharing" target="_blank">ES6+ Cheat Sheet</a>
+                    <a class="mt-4 block" href="https://docs.google.com/document/d/1IKoz86d2gs9MDcUf_cyT_ONBvudaMlp6k4VbgM09204/edit?usp=sharing" target="_blank">Subjects and Definitions to Research</a>
+                    <!-- <a class="mt-4 block" href="" target="_blank"></a> -->
                 </div>
 
             </div>
