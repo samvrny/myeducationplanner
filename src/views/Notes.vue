@@ -12,8 +12,6 @@
             <li>Add the ability to be able to toggle things as either complete or incomplete (also as a bonus, send
                 completed tasks to the archive once they are toggled as complete) ❌</li>
             <li>Add a scrum class to furthered courses ❌</li>
-            <li>Add a learning environment for all the Jargon in tech so I can learn what people are talking about ❌
-            </li>
             <li>Add an agile methodology course ❌</li>
             <li>Add a public speaking class ❌</li>
             <li>Apply for some jobs with CivicPlus? ❌</li>

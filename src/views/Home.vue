@@ -9,15 +9,15 @@
         will have a ❌ emoji, and finished paths will have a ✔️ emoji. Let's get this bread! 🍞</p>
     </section>
 
-    <section class="this-week path-box text-center">
-      <h2>This Weeks Schedule 7/1-7/7</h2>
-      <p><span class="bold">Saturday 7/1:</span>Have fun in North Dakota ❌</p>
-      <p><span class="bold">Sunday 7/1: </span>Have fun in North Dakota ❌</p>
-      <p><span class="bold">Monday 7/3: </span>Have fun in North Dakota ❌</p>
-      <p><span class="bold">Tuesday 7/4: </span>Drive back from North Dakota ❌ Work at the Tavern at 4:30 ❌</p>
-      <p><span class="bold">Wednesday 7/5: </span>Wake up at 8:20 to check trades. No phone for 30 minutes. ❌ Work on ZTM for 3 hours ❌ Work on ad to put out in Hastings about doing side work ❌ Work at the Tavern at 4:30 ❌</p>
-      <p><span class="bold">Thursday 7/6: </span>Wake up at 8:20 to check trades. No phone for 30 minutes. ❌ Work on ZTM for 4 hours. ❌ Research Wordpress for 2 hours ❌ Work on trading theory for 1 1/2 hours ❌</p>
-      <p><span class="bold">Friday 7/7: </span>Wake up at 8:20 to check trades. No phone for 30 minutes ❌ Work on ZTM for 4 hours or until project is complete. ❌ Work on Wordpress for 2 hours ❌ Finish adding content to this website. ❌ Make schedule for the next week ❌</p>
+    <section class="this-week path-box text-center colored-tab">
+      <h2>This Weeks Schedule 7/8-7/9</h2>
+      <p><span class="bold">Saturday 7/8:</span>Wake up at 9:30 ❌ Work on ZTM Excel Program for 2 hours ❌ Work on Microsoft Office Udemy courses for 2 hours ❌ Clean up Room ❌ Get Potassium Supplement ❌ Work on Trading strategy and strategy page for this website ❌ Find a Crypto Exchange ❌</p>
+      <p><span class="bold">Sunday 7/9:</span> Wake up at 9. No phone until family gets here ❌ Hang out with Family ❌ Work at the Tavern at 4 ❌</p>
+      <p><span class="bold">Monday 7/10:</span> Wake up at 8:20 to check trades. No phone for 30 minutes ❌ Work on ZTM Excel program for 3 hours ❌ Work on Udemy Microsoft Office programs for 2 hours ❌ Work on Wordpress for 1 hour ❌</p>
+      <p><span class="bold">Tuesday 7/11:</span> Wake up at 8:20 to check trades. No phone for 30 minutes ❌ Work on Microsoft Office programs for 2 hours. ❌ Work on making a reading list for this website ❌ Work at the Tavern at 4:30</p>
+      <p><span class="bold">Wednesday 7/12: </span>Wake up at 8:20 to check trades. No phone for 30 minutes. ❌ Work on Wordpress for 1 hour ❌ Work on ZTM 20 course for 1 hour ❌ Work at the Tavern at 4:30 ❌</p>
+      <p><span class="bold">Thursday 7/13: </span>Wake up at 8:20 to check trades. No phone for 30 minutes. ❌ Doctors appointment at 2PM ❌ Work on ZTM Excel program for 2 hours ❌ Work on Wordpress for 1 hour ❌ Work on ZTM 20 course for 1 hour ❌</p>
+      <p><span class="bold">Friday 7/14: </span>Wake up at 8:20 to check trades. No phone for 30 minutes. ❌ Make new schedule ❌ Update Notes section of this website ❌ Make game plan for applying for new jobs. Do some creative thinking and writing about all potential career paths and outcomes ❌ Work on Microsoft Office programs for 5 hours, hoping to have them complete by the end of the day ❌</p>
       <p><span class="link-font">Check My Google Calendar Here:
           <a class="link" href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">Google Calendar</a>
         </span></p>
@@ -26,6 +26,7 @@
     <section class="ztm path-box text-center">
       <h2>ZTM Course Path</h2>
       <p>📌 Complete Vue Developer 2023 ❌</p>
+      <p>📌 Miscrosoft Excel Program ❌</p>
       <p>📌 Javascript Web Projects ❌</p>
       <p>📌 Master the Coding Interview: Data Structures and Algorithms ❌</p>
       <p>📌 Motion Design With Figma ❌</p>
