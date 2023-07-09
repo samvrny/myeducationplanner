@@ -2,8 +2,9 @@
     <h1 class="resource-header">Documents</h1>
     <div class="resource-holder flex">
         <section class="flex flex-column docs-menu">
+            <a href="https://docs.google.com/document/u/0/" target="_blank"><button class="mx-6 text-xl bg-blue-600 hover:bg-blue-500 text-white font-bold py-2 px-4 rounded gdbtn">Google Docs Home</button></a>
             <button class="mx-6 text-xl bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
-                @click.prevent="activeDocument = 'ZTM Notes'">ZTM Notes</button>
+                @click.prevent="activeDocument = 'School Notes'">School Notes</button>
             <button class="mx-6 text-xl bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
                 @click.prevent="activeDocument = 'Resumes'">Resumes</button>
             <button class="mx-6 text-xl bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
@@ -25,12 +26,13 @@
             <div>
                 <h2 v-if="activeDocument != ''" class="border-b-2 border-green-700">{{ this.activeDocument }}</h2>
 
-                <div v-if="activeDocument === 'ZTM Notes'">
+                <div v-if="activeDocument === 'School Notes'">
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1EgGuZTJWCZ-5mhfoqx5o04_g6E8887v-iuhOjix_I_k/edit?usp=sharing" target="_blank">ZTM Excel Notes</a>
                     <a class="mt-4 block" href="https://docs.google.com/document/d/108dMck7M9owZh9e4_ieh-Isn5KIXy0MrmRzc01fURPc/edit?usp=sharing" target="_blank">Vue Master Project</a>
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1HrK3ixiP9oiR1HZIGMjWcNaOCadl4aOuY6DYSDDN2AQ/edit?usp=sharing" target="_blank">ZTM Vue Course Notes</a>
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1F14N-jk_3FZOJDs2BXZST9AcH6avgXTitgOyUANWQqc/edit?usp=sharing" target="_blank">ZTM Javascript 20 Notes</a>
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1wutWYd8RK_wRksvliR3yODMkTgPbNQ5FgVFE_nJq5Pw/edit?usp=sharing" target="_blank">ZTM Master the Coding Interview: Data Structures and Algorithms Notes</a>
+                    <a class="mt-4 block" href="https://docs.google.com/document/d/1DwOLmauLP0adBR7HuUFV6-oLMtVIUerC2QpbCeqpB7Q/edit?usp=sharing" target="_blank">Udemy Microsoft Word Course Notes</a>
                     <!-- <a class="mt-4 block" href="" target="_blank"></a> -->
                 </div>
                 <div v-else-if="activeDocument === 'Resumes'">
