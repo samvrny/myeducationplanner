@@ -241,6 +241,12 @@ nav a:hover {
   color: #f17105;
 }
 
+/* trading section style */
+
+.trading-accounts a {
+  margin: auto;
+}
+
 /* footer style */
 
 footer {
