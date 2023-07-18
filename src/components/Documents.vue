@@ -32,7 +32,7 @@
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1HrK3ixiP9oiR1HZIGMjWcNaOCadl4aOuY6DYSDDN2AQ/edit?usp=sharing" target="_blank">ZTM Vue Course Notes</a>
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1F14N-jk_3FZOJDs2BXZST9AcH6avgXTitgOyUANWQqc/edit?usp=sharing" target="_blank">ZTM Javascript 20 Notes</a>
                     <a class="mt-4 block" href="https://docs.google.com/document/d/1wutWYd8RK_wRksvliR3yODMkTgPbNQ5FgVFE_nJq5Pw/edit?usp=sharing" target="_blank">ZTM Master the Coding Interview: Data Structures and Algorithms Notes</a>
-                    <a class="mt-4 block" href="https://docs.google.com/document/d/1DwOLmauLP0adBR7HuUFV6-oLMtVIUerC2QpbCeqpB7Q/edit?usp=sharing" target="_blank">Udemy Microsoft Word Course Notes</a>
+                    <a class="mt-4 block" href="https://docs.google.com/document/d/1DwOLmauLP0adBR7HuUFV6-oLMtVIUerC2QpbCeqpB7Q/edit?usp=sharing" target="_blank">Udemy Microsoft Office Course Notes</a>
                     <!-- <a class="mt-4 block" href="" target="_blank"></a> -->
                 </div>
                 <div v-else-if="activeDocument === 'Resumes'">
