@@ -11,9 +11,9 @@
       <p><span class="bold">Sunday 7/16:</span>Relax and recover ✔️ Drive back to Viroqua ✔️ Pack things for Viroqua, grab sport equipment ✔️</p>
       <p><span class="bold">Monday 7/17:</span>Work landscaping job ✔️ Work on Wordpress for 1 hour. (Too exhausted) ❌ Work on Microsoft Office for 1 hour (Too exhausted) ❌</p>
       <p><span class="bold">Tuesday 7/18:</span>Work landscaping job ✔️ Work on Wordpress for 1 hour ✔️ Work on Microsoft Office for 1 hour ✔️</p>
-      <p><span class="bold">Wednesday 7/19: </span>Work landscaping job ❌ Work on Wordpress for 1 hour ❌ Work on Microsoft Office for 1 hour ❌</p>
-      <p><span class="bold">Thursday 7/20: </span>Work landscaping job ❌ Work on Wordpress for 1 hour (or more if so inspired) ❌</p>
-      <p><span class="bold">Friday 7/21: </span>Work landscaping job ❌ Work on Microsoft Office for 1 hour ❌ Relax and have some beers ❌</p>
+      <p><span class="bold">Wednesday 7/19: </span>Work landscaping job ✔️ Work on Wordpress for 1 hour ✔️ Work on Microsoft Office for 1 hour ✔️</p>
+      <p><span class="bold">Thursday 7/20: </span>Work landscaping job ✔️ Work on Wordpress for 1 hour (or more if so inspired) ✔️</p>
+      <p><span class="bold">Friday 7/21: </span>Work landscaping job ✔️ Work on Microsoft Office for 1 hour (Didn't get around to it, having run out of time) ❌ Relax and have some beers ✔️</p>
       <p><span class="link-font">Check My Google Calendar Here:
           <a class="link" href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">Google Calendar</a>
         </span></p>
