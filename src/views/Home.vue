@@ -6,14 +6,14 @@
     </section>
 
     <section class="this-week path-box text-center colored-tab">
-      <h2>This Weeks Schedule 7/15-7/21</h2>
-      <p><span class="bold">Saturday 7/15:</span>Day of relaxation ❌</p>
-      <p><span class="bold">Sunday 7/16:</span>Work on Wordpress for 4 hours ❌ Work on Microsoft office for 2 hours. Focus on Microsoft Teams ❌</p>
-      <p><span class="bold">Monday 7/17:</span>Work landscaping job ❌ Wordpress 1 hour ❌ Microsoft Office 1 hour ❌</p>
-      <p><span class="bold">Tuesday 7/18:</span>Work landscaping job ❌ Wordpress for 1 hour ❌</p>
-      <p><span class="bold">Wednesday 7/19:</span>Work landscaping job ❌ Microsoft Office for 2 hours ❌</p>
-      <p><span class="bold">Thursday 7/20:</span>Work landscaping job ❌ Microsoft Office for 1 hour ❌ Wordpress for 1 hour ❌</p>
-      <p><span class="bold">Friday 7/21:</span>Work landscaping job ❌ Work on next ZTM course for 2 hours, or 3 if work ends early ❌</p>
+      <h2>This Weeks Schedule 7/22-7/28</h2>
+      <p><span class="bold">Saturday 7/22:</span> Day of relaxation ❌</p>
+      <p><span class="bold">Sunday 7/23:</span> Work on Wordpress for 4 hours ❌ Work on Microsoft office for 2 hours. Focus on Microsoft Teams ❌</p>
+      <p><span class="bold">Monday 7/24:</span> Work landscaping job ❌ Wordpress 1 hour ❌ Microsoft Office 1 hour ❌</p>
+      <p><span class="bold">Tuesday 7/25:</span> Work landscaping job ❌ Wordpress for 1 hour ❌</p>
+      <p><span class="bold">Wednesday 7/26:</span> Work landscaping job ❌ Microsoft Office for 2 hours ❌</p>
+      <p><span class="bold">Thursday 7/27:</span> Work landscaping job ❌ Microsoft Office for 1 hour ❌ Wordpress for 1 hour ❌</p>
+      <p><span class="bold">Friday 7/28:</span> Work landscaping job ❌ Work on next ZTM course for 2 hours, or 3 if work ends early ❌</p>
       <p><span class="link-font">Check My Google Calendar Here:
           <a class="link" href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">Google Calendar</a>
         </span></p>
