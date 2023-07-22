@@ -3,7 +3,20 @@
         <section class="archive path-box text-center archive-box">
             <h2>Archive of Weekly Schedule</h2>
             
-            <h2>This Weeks Schedule 7/8-7/14</h2>
+            <h2>Schedule for week 7/15-7/21</h2>
+            <p><span class="bold">Saturday 7/15:</span>Work at the Tavern at 10:45 ✔️ Go on the beer patio crawl with the boys ✔️ Get ahold of Bruce about start date ✔️</p>
+            <p><span class="bold">Sunday 7/16:</span>Relax and recover ✔️ Drive back to Viroqua ✔️ Pack things for Viroqua, grab sport equipment ✔️</p>
+            <p><span class="bold">Monday 7/17:</span>Work landscaping job ✔️ Work on Wordpress for 1 hour. (Too exhausted) ❌ Work on Microsoft Office for 1 hour (Too exhausted) ❌</p>
+            <p><span class="bold">Tuesday 7/18:</span>Work landscaping job ✔️ Work on Wordpress for 1 hour ✔️ Work on Microsoft Office for 1 hour ✔️</p>
+            <p><span class="bold">Wednesday 7/19: </span>Work landscaping job ✔️ Work on Wordpress for 1 hour ✔️ Work on Microsoft Office for 1 hour ✔️</p>
+            <p><span class="bold">Thursday 7/20: </span>Work landscaping job ✔️ Work on Wordpress for 1 hour (or more if so inspired) ✔️</p>
+            <p><span class="bold">Friday 7/21: </span>Work landscaping job ✔️ Work on Microsoft Office for 1 hour (Didn't get around to it, having run out of time) ❌ Relax and have some beers ✔️</p>
+
+            <br>
+            <hr>
+            <br>
+
+            <h2>Schedule for week 7/8-7/14</h2>
             <p><span class="bold">Saturday 7/8:</span>Wake up at 9:30 (10:30) ❌ Work on ZTM Excel Program for 2 hours ✔️ Work on Microsoft Office Udemy courses for 2 hours ✔️ Clean up Room ✔️ Get Potassium Supplement ✔️ Work on Trading strategy and strategy page for this website ✔️ Find a Crypto Exchange ✔️</p>
             <p><span class="bold">Sunday 7/9:</span> Wake up at 9. No phone until family gets here (Woke up correctly. Used phone.) ❌ Hang out with Family ✔️ Work on Organic Valley cover letter ✔️ Work at the Tavern at 4 ✔️</p>
             <p><span class="bold">Monday 7/10:</span> Wake up at 8:20 to check trades. No phone for 30 minutes (Used Phone) ❌ Work on ZTM Excel program for 3 hours ✔️ Work on Udemy Microsoft Office programs for 2 hours ✔️ Work on Wordpress for 1 hour (Ran out of time) ❌</p>
