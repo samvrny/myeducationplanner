@@ -10,9 +10,9 @@
       <p><span class="bold">Saturday 7/22:</span> Day of relaxation ✔️</p>
       <p><span class="bold">Sunday 7/23:</span> Work on Wordpress for 4 hours (Closer to 2 hours were worked) ❌ Work on Microsoft office for 2 hours. Focus on Microsoft Teams (Didn't get to it) ❌</p>
       <p><span class="bold">Monday 7/24:</span> Work landscaping job ✔️ Microsoft Office 2 hours (Hung out with Misa instead) ❌</p>
-      <p><span class="bold">Tuesday 7/25:</span> Wordpress for 3 hours ❌ Work on Resume update ❌ Apply for a job or 2 ❌</p>
-      <p><span class="bold">Wednesday 7/26:</span> Work landscaping job ❌ Microsoft Office for 2 hours ❌</p>
-      <p><span class="bold">Thursday 7/27:</span> Work landscaping job ❌ Microsoft Office for 1 hour ❌ Wordpress for 1 hour ❌</p>
+      <p><span class="bold">Tuesday 7/25:</span> Wordpress for 3 hours ✔️ Work on Resume update ✔️ Apply for a job or 2 ✔️</p>
+      <p><span class="bold">Wednesday 7/26:</span> Microsoft Office for 2 hours ❌ Wordpress for 2 hours ❌</p>
+      <p><span class="bold">Thursday 7/27:</span> Work landscaping job ❌ Wordpress for 2 hours ❌</p>
       <p><span class="bold">Friday 7/28:</span> Work landscaping job ❌ Work on next ZTM course for 2 hours, or 3 if work ends early ❌</p>
       <p><span class="link-font">Check My Google Calendar Here:
           <a class="link" href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">Google Calendar</a>
@@ -34,6 +34,7 @@
       <p>📌 C#/.NET Bootcamp ❌</p>
       <p>📌 Complete React Developer in 2023 With Redux ❌</p>
       <p>📌 Unity Bootcamp: 3D Game Development ❌</p>
+      <p>Found Websites Section: https://www.kodable.com/parents Make one</p>
 
       <div class="ztm-link"><span class="link-font">Here is a link to the ZTM academy: <a class="link"
             href="https://academy.zerotomastery.io/" target="_blank">ZTM Academy</a></span></div>
