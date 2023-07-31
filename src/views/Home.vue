@@ -6,17 +6,18 @@
     </section>
 
     <section class="this-week path-box text-center colored-tab">
-      <h2>This Weeks Schedule 7/22-7/28</h2>
-      <p><span class="bold">Saturday 7/22:</span> Day of relaxation ✔️</p>
-      <p><span class="bold">Sunday 7/23:</span> Work on Wordpress for 4 hours (Closer to 2 hours were worked) ❌ Work on Microsoft office for 2 hours. Focus on Microsoft Teams (Didn't get to it) ❌</p>
-      <p><span class="bold">Monday 7/24:</span> Work landscaping job ✔️ Microsoft Office 2 hours (Hung out with Misa instead) ❌</p>
-      <p><span class="bold">Tuesday 7/25:</span> Wordpress for 3 hours ✔️ Work on Resume update ✔️ Apply for a job or 2 ✔️</p>
-      <p><span class="bold">Wednesday 7/26:</span> Microsoft Office for 2 hours ❌ Wordpress for 2 hours ❌</p>
-      <p><span class="bold">Thursday 7/27:</span> Work landscaping job ❌ Wordpress for 2 hours ❌</p>
-      <p><span class="bold">Friday 7/28:</span> Work landscaping job ❌ Work on next ZTM course for 2 hours, or 3 if work ends early ❌</p>
+      <h2>This Weeks Schedule 7/29-8/4</h2>
+      <p><span class="bold">Saturday 7/29:</span> Day of relaxtion ✔️ Dinner at Jaes ✔️</p>
+      <p><span class="bold">Sunday 7/30:</span> Butcher chickens ✔️ Relaxation time ✔️</p>
+      <p><span class="bold">Monday 7/31:</span> Work landscaping job ❌ Research more into MATC education. Call to get the login information for my account ❌ Review what needs to be done for other classwork ❌</p>
+      <p><span class="bold">Tuesday 8/1:</span> Work landscaping job ❌ Look more into technical school. Work on MATC application ❌</p>
+      <p><span class="bold">Wednesday 8/2:</span> Work landscaping job ❌ Work on Excel class for 1 hour. Do just review to keep up to speed. ❌ Continue work on the technical school application. ❌</p>
+      <p><span class="bold">Thursday 8/3:</span> Work landscaping job ❌ Continue looking into technical school ❌ Review Wordpress and ZTM courses and review educational paths created by me back in May ❌</p>
+      <p><span class="bold">Friday 8/4:</span> Work landscaping job ❌ Have a couple of beers and relax ❌</p>
       <p><span class="link-font">Check My Google Calendar Here:
           <a class="link" href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">Google Calendar</a>
-        </span></p>
+        </span>
+      </p>
     </section>
 
     <section class="ztm path-box text-center">
