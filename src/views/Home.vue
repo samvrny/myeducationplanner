@@ -9,10 +9,10 @@
       <h2>This Weeks Schedule 7/29-8/4</h2>
       <p><span class="bold">Saturday 7/29:</span> Day of relaxtion ✔️ Dinner at Jaes ✔️</p>
       <p><span class="bold">Sunday 7/30:</span> Butcher chickens ✔️ Relaxation time ✔️</p>
-      <p><span class="bold">Monday 7/31:</span> Work landscaping job ❌ Research more into MATC education. Call to get the login information for my account ❌ Review what needs to be done for other classwork ❌</p>
-      <p><span class="bold">Tuesday 8/1:</span> Work landscaping job ❌ Look more into technical school. Work on MATC application ❌</p>
-      <p><span class="bold">Wednesday 8/2:</span> Work landscaping job ❌ Work on Excel class for 1 hour. Do just review to keep up to speed. ❌ Continue work on the technical school application. ❌</p>
-      <p><span class="bold">Thursday 8/3:</span> Work landscaping job ❌ Continue looking into technical school ❌ Review Wordpress and ZTM courses and review educational paths created by me back in May ❌</p>
+      <p><span class="bold">Monday 7/31:</span> Work landscaping job ✔️ Prepare for WEDC interview ✔️</p>
+      <p><span class="bold">Tuesday 8/1:</span> Work landscaping job ✔️ Prepare for WEDC interview ✔️</p>
+      <p><span class="bold">Wednesday 8/2:</span> Work landscaping job ✔️ Work on Excel class for 1 hour. Do just review to keep up to speed. ❌ Work on the technical school application. ✔️</p>
+      <p><span class="bold">Thursday 8/3:</span> Work landscaping job ❌ Continue looking into technical school ❌ Review Wordpress and ZTM courses and review educational paths created by me back in May, update them as necessary ❌</p>
       <p><span class="bold">Friday 8/4:</span> Work landscaping job ❌ Have a couple of beers and relax ❌</p>
       <p><span class="link-font">Check My Google Calendar Here:
           <a class="link" href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">Google Calendar</a>
