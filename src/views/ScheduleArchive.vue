@@ -3,6 +3,19 @@
         <section class="archive path-box text-center archive-box">
             <h2>Archive of Weekly Schedule</h2>
             
+            <h2>Schedule for week 7/29-8/4</h2>
+            <p><span class="bold">Saturday 7/29:</span> Day of relaxtion ✔️ Dinner at Jaes ✔️</p>
+            <p><span class="bold">Sunday 7/30:</span> Butcher chickens ✔️ Relaxation time ✔️</p>
+            <p><span class="bold">Monday 7/31:</span> Work landscaping job ✔️ Prepare for WEDC interview ✔️</p>
+            <p><span class="bold">Tuesday 8/1:</span> Work landscaping job ✔️ Prepare for WEDC interview ✔️</p>
+            <p><span class="bold">Wednesday 8/2:</span> Work landscaping job ✔️ Work on Excel class for 1 hour. Do just review to keep up to speed. ❌ Work on the technical school application. ✔️</p>
+            <p><span class="bold">Thursday 8/3:</span> Work landscaping job ✔️ Continue looking into technical school ✔️ Review Wordpress and ZTM courses and review educational paths created by me back in May, update them as necessary (Did not have enough time for this) ❌</p>
+            <p><span class="bold">Friday 8/4:</span> Work landscaping job ✔️ Have a couple of beers and relax ✔️</p>
+
+            <br>
+            <hr>
+            <br>
+
             <h2>Schedule for week 7/22-7/28</h2>
             <p><span class="bold">Saturday 7/22:</span> Day of relaxation ✔️</p>
             <p><span class="bold">Sunday 7/23:</span> Work on Wordpress for 4 hours (Closer to 2 hours were worked) ❌ Work on Microsoft office for 2 hours. Focus on Microsoft Teams (Didn't get to it) ❌</p>
