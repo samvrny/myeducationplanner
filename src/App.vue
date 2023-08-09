@@ -3,7 +3,7 @@
     <h1>2023 Day Planner</h1>
     <nav class="flex">
       <RouterLink to="/">Home</RouterLink>
-      <RouterLink to="/notes">Notes</RouterLink>
+      <RouterLink to="/tasks">Tasks</RouterLink>
       <RouterLink to="/resources">Resources</RouterLink>
       <RouterLink to="/archive">Archive</RouterLink>
     </nav>
