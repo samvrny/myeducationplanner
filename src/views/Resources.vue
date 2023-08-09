@@ -1,34 +1,36 @@
 <template>
-    <div class="resource-menu">
-        <button class="mx-6 text-xl bg-gray-800 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded"
-            @click.prevent="activeName = 'Accounts'">
-            Accounts
-        </button>
-        <button class="mx-6 text-xl bg-gray-800 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded"
-            @click.prevent="activeName = 'Documents'">
-            Google Documents
-        </button>
-        <button class="mx-6 text-xl bg-gray-800 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded"
-            @click.prevent="activeName = 'Trading'">
-            Trading
-        </button>
-        <!-- <button class="mx-6 text-xl bg-gray-800 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded"
-            @click.prevent="activeName = 'Life Rules'">
-            Life Rules
-        </button> -->
-        <button class="mx-6 text-xl bg-gray-800 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded"
-            @click.prevent="activeName = 'Reading'">
-            Reading List 
-        </button>
+    <div class="resource-holder flex">
+        <div class="resource-menu">
+            <h2 class="m-6 text-xl">MENU</h2>
+            <button class="mr-6 text-xl bg-gray-800 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded"
+                @click.prevent="activeName = 'Accounts'">
+                Accounts
+            </button>
+            <button class="mr-6 text-xl bg-gray-800 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded"
+                @click.prevent="activeName = 'Documents'">
+                Google Documents
+            </button>
+            <button class="mr-6 text-xl bg-gray-800 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded"
+                @click.prevent="activeName = 'Trading'">
+                Trading
+            </button>
+            <!-- <button class="mx-6 text-xl bg-gray-800 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded"
+                @click.prevent="activeName = 'Life Rules'">
+                Life Rules
+            </button> -->
+            <button class="mx-r text-xl bg-gray-800 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded"
+                @click.prevent="activeName = 'Reading'">
+                Reading List 
+            </button>
+        </div>
+
+        <section class="flex resource-tags align-center">
+            <documents v-if="this.activeName === 'Documents'"></documents>
+            <accounts v-else-if="this.activeName === 'Accounts'"></accounts>
+            <trading v-else-if="this.activeName === 'Trading'"></trading>
+            <reading v-else-if="this.activeName === 'Reading'"></reading>
+        </section>
     </div>
-
-    <section>
-        <documents v-if="this.activeName === 'Documents'"></documents>
-        <accounts v-else-if="this.activeName === 'Accounts'"></accounts>
-        <trading v-else-if="this.activeName === 'Trading'"></trading>
-        <reading v-else-if="this.activeName === 'Reading'"></reading>
-
-    </section>
 </template>
 
 <script>

@@ -200,7 +200,9 @@ nav a:hover {
   text-align: center;
 }
 
-
+.resource-tags {
+  flex: 1;
+}
 
 /* documents section style */
 
@@ -214,13 +216,23 @@ nav a:hover {
   margin: 10px 10px 5px 20px;
 }
 
+/* resources menu CSS */
+
 .resource-menu {
+  max-width: 200px;
+  left: 0;
+  margin-bottom: 50px;
   text-align: center;
 }
 
-.resource-holder {
+.resource-menu button {
   width: 100%;
+}
+
+.resource-holder {
   height: 100%;
+  width: 100%;
+  flex: 1;
 }
 
 .docs-box {
