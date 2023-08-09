@@ -4,7 +4,6 @@
         Udemy
         ZTM
         Trailhead
-
     </section>
     <section>
         Socials

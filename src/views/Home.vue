@@ -20,27 +20,6 @@
       </p>
     </section>
 
-    <section class="ztm path-box text-center">
-      <h2>ZTM Course Path</h2>
-      <p>📌 Complete Vue Developer 2023 ✔️</p>
-      <p>📌 Miscrosoft Excel Program ❌</p>
-      <p>📌 Master the Coding Interview: Data Structures and Algorithms ❌</p>
-      <p>📌 Motion Design With Figma ❌</p>
-      <p>📌 Javascript Web Projects ❌</p>
-      <p>📌 Javascript: The Advanced Concepts ❌</p>
-      <p>📌 Complete SQL + Databases Bootcamp ❌</p>
-      <p>📌 Complete Career Toolkit ❌</p>
-      <p>📌 Complete Web Developer in 2023 ❌</p>
-      <p>📌 Complete Node.JS Developer in 2023 ❌</p>
-      <p>📌 C#/.NET Bootcamp ❌</p>
-      <p>📌 Complete React Developer in 2023 With Redux ❌</p>
-      <p>📌 Unity Bootcamp: 3D Game Development ❌</p>
-      <p>Found Websites Section: https://www.kodable.com/parents Make one</p>
-
-      <div class="ztm-link"><span class="link-font">Here is a link to the ZTM academy: <a class="link"
-            href="https://academy.zerotomastery.io/" target="_blank">ZTM Academy</a></span></div>
-    </section>
-
     <!-- <section class="trailhead path-box text-center">
       <h2>Trailhead Course Path</h2>
       <p>📌 Skill up for the future with Trailhead trail ✔️</p>
