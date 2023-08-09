@@ -1,7 +1,7 @@
 <template>
     <main class="mx-10 mt-20">
         <p class="text-3xl">This section is built with links to all of the accounts of relevant websites that I visit frequently.</p>
-        <div class="text-center flex">
+        <!-- <div class="text-center flex">
             <section class="">
                 <h2>School & Education</h2>
                 <div class="ztm-link"><span class="link-font"><a class="link" href="https://academy.zerotomastery.io/" target="_blank">ZTM Academy</a></span></div>
@@ -56,6 +56,6 @@
                 <div class="ztm-link"><span class="link-font"><a class="link" href="" target="_blank"></a></span></div>
                 Coolers
             </section>
-        </div>
+        </div> -->
     </main>
 </template>
