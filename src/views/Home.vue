@@ -51,9 +51,9 @@
       <p>📌 Salesforce Certified Associate trail ❌</p>
       <p>📌 Build your business skills trail ❌</p>
       <p>📌 Build your Salesforce developer career trail ❌</p>
-      <p>📌 Build your career in the salesforce ecosystem trail ❌</p>
+      <p>📌 Build your career in the salesforce ecosystem trail ❌</p> -->
 
-      <div class="ztm-link"><span class="link-font">Here is a link to the Trailhead Salesforce Academy: <a class="link"
+      <!-- <div class="ztm-link"><span class="link-font">Here is a link to the Trailhead Salesforce Academy: <a class="link"
             href="https://trailhead.salesforce.com/today" target="_blank">Trailhead</a></span>
       </div>
     </section> -->
