@@ -1,5 +1,5 @@
 <template>
-    <div class="resource-holder flex mt-36">
+    <div class="resource-holder flex mt-20">
         <section class="flex flex-column docs-menu">
             <a href="https://docs.google.com/document/u/0/" target="_blank"><button class="mx-6 text-xl bg-blue-600 hover:bg-blue-500 text-white font-bold py-2 px-4 rounded gdbtn">Google Docs Home</button></a>
             <button class="mx-6 text-xl bg-green-800 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"

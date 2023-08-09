@@ -100,10 +100,10 @@ nav a:hover {
 
 .path-box {
   border-radius: 5px;
-  margin: 28px 150px;
+  margin: 28px 150px
 }
 
-.about, .this-week, .ztm, .archive, .notes, .other-courses {
+.about, .this-week, .ztm, .trailhead, .archive, .notes, .other-courses {
   padding: 25px 30px;
   background-color: white;
 }
@@ -141,7 +141,7 @@ nav a:hover {
   font-weight: 600;
 }
 
-.ztm h2,  h2, .other-courses h2 {
+.ztm h2, .trailhead h2, .other-courses h2 {
   margin-bottom: 25px;
   font-size: 40px;
 }
@@ -160,7 +160,7 @@ nav a:hover {
   margin: 10px 0px;
 }
 
-.ztm p,  p, .other-courses p {
+.ztm p, .trailhead p, .other-courses p {
   margin: 15px 0px;
   font-size: 23px;
   font-weight: 600;

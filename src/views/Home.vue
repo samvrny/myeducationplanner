@@ -19,27 +19,5 @@
         </span>
       </p>
     </section>
-
-    <!-- <section class="trailhead path-box text-center">
-      <h2>Trailhead Course Path</h2>
-      <p>📌 Skill up for the future with Trailhead trail ✔️</p>
-      <p>📌 Grow Faster with CRM ✔️</p>
-      <p>📌 Admin Beginner ❌</p>
-      <p>📌 Admin Intermediate ❌</p>
-      <p>📌 Admin Advanced ❌</p>
-      <p>📌 Salesforce Certified Associate trail ❌</p>
-      <p>📌 Build your business skills trail ❌</p>
-      <p>📌 Build your Salesforce developer career trail ❌</p>
-      <p>📌 Build your career in the salesforce ecosystem trail ❌</p> -->
-
-      <!-- <div class="ztm-link"><span class="link-font">Here is a link to the Trailhead Salesforce Academy: <a class="link"
-            href="https://trailhead.salesforce.com/today" target="_blank">Trailhead</a></span>
-      </div>
-    </section> -->
-
-    <!-- <section class="other-courses path-box text-center">
-      <h2>Other Courses and Education</h2>
-      <p>Nothing to see here just yet. More to be added soon!</p>
-    </section> -->
   </main>
 </template>

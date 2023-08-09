@@ -24,7 +24,7 @@
             </button>
         </div>
 
-        <section class="flex resource-tags align-center">
+        <section class="flex resource-tags">
             <documents v-if="this.activeName === 'Documents'"></documents>
             <accounts v-else-if="this.activeName === 'Accounts'"></accounts>
             <trading v-else-if="this.activeName === 'Trading'"></trading>
